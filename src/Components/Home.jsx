@@ -1,4 +1,4 @@
-import React, { useEffect, useReducer, useRef } from 'react'
+import React, { useEffect, useRef } from 'react'
 import pdf from '../pdf/Resume.pdf'
 import hero from './Data/hero.json'
 import Typed from "typed.js";

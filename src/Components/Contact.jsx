@@ -19,22 +19,22 @@ function Contact() {
       <div className="contact-icon"
       data-aos="zoom-in-up"
       data-aos-duration="1000">
-        <a href="https://www.instagram.com/mohdrizwan0343" target='_blank' className="items">
+        <a href="https://www.instagram.com/mohdrizwan0343" target='blank' className="items">
           <FaInstagram className="icons"/>
         </a>
-        <a href='https://www.facebook.com/mohd Rizwan Ansari' target='_blank' className="items">
+        <a href='https://www.facebook.com/mohd Rizwan Ansari' target='blank' className="items">
           <CiFacebook className="icons"/>
         </a>
-        <a href='https://www.linkedin.com/in/mohd-rizwan-86503b26a' target='_blank' className="items">
+        <a href='https://www.linkedin.com/in/mohd-rizwan-86503b26a' target='blank' className="items">
           <FaLinkedin className="icons"/>
         </a>
-        <a href='https://x.com/' target='_blank' className="items">
+        <a href='https://x.com/' target='blank' className="items">
           <FaXTwitter className="icons"/>
         </a>
-        <a href='https://github.com/' target='_blank' className="items">
+        <a href='https://github.com/MohdRizwan110' target='blank' className="items">
           <FaGithub className="icons"/>
         </a>
-        <a href="mailto:rizwanaliansari72@gmail.com" target="_blank" className="items">
+        <a href="mailto:rizwanaliansari72@gmail.com" target="blank" className="items">
         <SiGmail className="icons" />
         </a>
 
